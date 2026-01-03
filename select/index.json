@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "告白バンジージャンプ",
+  "base_artist": "halca",
+  "createdAt": "2026-01-03T06:29:45.773078Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "告白バンジージャンプ",
+      "artist": "halca",
+      "has_synced": true,
+      "path": "select/01_告白バンジージャンプ_halca.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "告白バンジージャンプ (告白蹦极)",
+      "artist": "halca",
+      "has_synced": true,
+      "path": "select/02_告白バンジージャンプ_(告白蹦极)_halca.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "告白バンジージャンプ",
+      "artist": "halca",
+      "has_synced": true,
+      "path": "select/03_告白バンジージャンプ_halca.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "告白バンジージャンプ",
+      "artist": "halca",
+      "has_synced": false,
+      "path": "select/pl_01_告白バンジージャンプ_halca.txt"
+    }
+  ]
+}
